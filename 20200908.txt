@@ -1,3 +1,0 @@
-제목 : 200908
-내용 : test file create
-설명 : test commit
